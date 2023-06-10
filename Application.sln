@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hero.EnergyManager", "src\H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hero", "src\Hero\Hero.csproj", "{BAD7C9D9-76A4-4B93-99BD-2A901B545303}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hero.Shelly", "src\Hero.Shelly\Hero.Shelly.csproj", "{24C4AAF3-1971-4016-A1D9-80BD66CE8543}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{BAD7C9D9-76A4-4B93-99BD-2A901B545303}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAD7C9D9-76A4-4B93-99BD-2A901B545303}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD7C9D9-76A4-4B93-99BD-2A901B545303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C4AAF3-1971-4016-A1D9-80BD66CE8543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C4AAF3-1971-4016-A1D9-80BD66CE8543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C4AAF3-1971-4016-A1D9-80BD66CE8543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C4AAF3-1971-4016-A1D9-80BD66CE8543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
