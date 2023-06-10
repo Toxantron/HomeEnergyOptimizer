@@ -20,7 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MyApplication.Module\MyApplication.Module.csproj" />
+    <ProjectReference Include="..\Hero.EnergyManager\Hero.EnergyManager.csproj" />
+    <ProjectReference Include="..\Hero\Hero.csproj" />
   </ItemGroup>
 
   <ItemGroup>
